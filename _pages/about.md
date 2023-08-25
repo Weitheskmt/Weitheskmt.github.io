@@ -2,27 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Westlake University</a>. Ph.D. Student.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>412 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>E5-412, SS</p>
+    <p>No. 600 Dunyu Road</p>
+    <p>Hangzhou, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-This is some random text -- this should changed frontend.
-yes, my name is Wei Liu
+I am currently a doctoral student at West Lake University, under the guidance of Professor [Wenjie Dou](https://dougroup.westlake.edu.cn). My research focuses on the rapid and precise comprehension, as well as the simulation, of excited-state dynamics and open quantum systems. I am enthusiastic about delving into the intricate world of quantum phenomena, aiming to unravel the complex behaviors that arise in such systems. With a strong foundation in my academic journey and a passion for pushing the boundaries of knowledge, I am dedicated to contributing to the advancement of our understanding of quantum dynamics and its applications.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Feel free to reach out to me anytime via email:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+liuwei42@westlake.edu.cn.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm always open to engaging in discussions, collaborations, and sharing insights within the scientific community.
