@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Notes on Quantum Chemistry
-date: 2022-12-22 00:00:00-0400
+title: Notes on Open System Quantum Mechanics
+date: 2023-05-31 00:00:00-0400
 inline: false
 related_posts: false
 ---

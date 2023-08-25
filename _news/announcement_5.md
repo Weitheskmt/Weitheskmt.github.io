@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Notes on Quantum Chemistry
-date: 2022-12-22 00:00:00-0400
+title: Notes on Modern Condensed Matter Physics
+date: 2023-05-27 00:00:00-0400
 inline: false
 related_posts: false
 ---
