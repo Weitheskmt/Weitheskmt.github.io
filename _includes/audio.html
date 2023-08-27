@@ -13,4 +13,10 @@
 
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
 
+  {%- if include.audio_name -%}
+  <div class="audio-name">
+    {{ include.audio_name }}
+  </div>
+  {%- endif %}
+
 </figure>
