@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: Quantum Chemistry
+description: jupyter-book about Quantum Mechanics for Chemistry
+img: assets/img/QC.png
+redirect: https://weitheskmt.github.io/QuantumChemistry/
+importance: 3
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
