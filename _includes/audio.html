@@ -9,8 +9,6 @@
     {% if include.controls %}controls{% endif %}
     {% if include.loop %}loop{% endif %}
     {% if include.muted %}muted{% endif %}
-
-    preload="auto"     <!-- 预加载音频，以便更好地支持播放 -->
   />
 
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
