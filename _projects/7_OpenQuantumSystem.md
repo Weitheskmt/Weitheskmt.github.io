@@ -4,7 +4,7 @@ title: Open Quantum System
 description: Lecture Notes on the Theory of Open Quantum Systems
 img: assets/img/OQS.png
 redirect: https://arxiv.org/pdf/1902.00967.pdf
-importance: 2
+importance: 1
 category: work
 ---
 
