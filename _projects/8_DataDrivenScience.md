@@ -3,7 +3,7 @@ layout: page
 title: Data Driven Science
 description: Lecture Notes on the Theory of Data Driven Science
 img: assets/img/DMD.png
-redirect: https://arxiv.org/pdf/1902.00967.pdf
+redirect: https://faculty.washington.edu/sbrunton/DataBookV2.pdf
 importance: 1
 category: work
 ---
