@@ -4,7 +4,7 @@ title: Quantum Chemistry
 description: jupyter-book about Quantum Mechanics for Chemistry
 img: assets/img/QC.png
 redirect: https://weitheskmt.github.io/QuantumChemistry/
-importance: 3
+importance: 1
 category: work
 ---
 
