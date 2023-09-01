@@ -1,7 +1,7 @@
 ---
 layout: post
 title: QCD_imag_time_propagation
-date: 2023-08-31 08:58:00-0400
+date: 2023-08-31 08:56:00-0400
 description: an example of imag_time_propagation
 tags: jupyter
 categories: QuantumClassicDynamics
