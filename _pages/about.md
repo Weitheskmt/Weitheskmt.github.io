@@ -6,7 +6,7 @@ subtitle: <a href='#'>Westlake University</a>. Ph.D. Student.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Me.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>E5-412, SS,</p>
