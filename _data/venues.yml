@@ -8,3 +8,7 @@
 "Arxiv":
   url: https://arxiv.org
   color: "#b31b1b"
+
+"JCP":
+  url: https://pubs.aip.org/aip/jcp
+  color: "#1520a6"
