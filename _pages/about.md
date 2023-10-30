@@ -18,7 +18,9 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am currently a doctoral student at [Westlake University](https://www.westlake.edu.cn), under the guidance of Professor [Wenjie Dou](https://dougroup.westlake.edu.cn). My research focuses on the rapid and precise comprehension, as well as the simulation, of **excited-state dynamics** and **open quantum systems**. I am enthusiastic about delving into the intricate world of quantum phenomena, aiming to unravel the complex behaviors that arise in such systems. With a strong foundation in my academic journey and a passion for pushing the boundaries of knowledge, I am dedicated to contributing to the advancement of our understanding of quantum dynamics and its applications.
+I am currently a doctoral student at [Westlake University](https://www.westlake.edu.cn), under the guidance of Professor [Wenjie Dou](https://dougroup.westlake.edu.cn). I am a researcher in **theoretical and computational chemistry**. I am very skilled in **high-performance computing**,
+which allows me to do theoretical calculations that **others rarely do**. I am currently working on **the strong field regulation theory of spin quantum dynamics**, which is expected to solve the mechanism of **spin regulation of chiral molecules**, is a cutting-edge fundamental and original work.
+I am enthusiastic about delving into the intricate world of quantum phenomena, aiming to unravel the complex behaviors that arise in such systems. With a strong foundation in my academic journey and a passion for pushing the boundaries of knowledge, I am dedicated to contributing to the advancement of our understanding of quantum dynamics and its applications.
 
 Feel free to reach out to me anytime via email:
 
