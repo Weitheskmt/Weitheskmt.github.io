@@ -12,3 +12,7 @@
 "JCP":
   url: https://pubs.aip.org/aip/jcp
   color: "#1520a6"
+
+"JCTC":
+  url: https://pubs.acs.org/journal/jctcce
+  color: "#228C22"
